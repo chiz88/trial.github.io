@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chizsa's Wellness & Spirituality Hub</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #ffffff;
+            padding: 20px;
+            text-align: center;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+            color: #333;
+        }
+        nav {
+            margin: 20px 0;
+            text-align: center;
+        }
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #333;
+            font-size: 1.1em;
+        }
+        nav a:hover {
+            color: #007BFF;
+        }
+        main {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #ffffff;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        section {
+            margin-bottom: 40px;
+        }
+        section h2 {
+            font-size: 2em;
+            margin-bottom: 20px;
+            color: #333;
+        }
+        section p {
+            font-size: 1.1em;
+            line-height: 1.6;
+            color: #666;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #ffffff;
+            box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1);
+        }
+        footer p {
+            margin: 0;
+            font-size: 0.9em;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Chiza's Wellness & Spirituality Hub</h1>
+        <nav>
+            <a href="#summaries">Book Summaries</a>
+            <a href="#products">Affiliate Products</a>
+            <a href="#podcasts">Podcasts</a>
+            <a href="#discoveries">Discoveries</a>
+        </nav>
+    </header>
+
+    <main>
+        <section id="summaries">
+            <h2>Book Summaries</h2>
+            <p>Explore insightful summaries of books focused on health, wellness, and spirituality. Stay tuned for more!</p>
+        </section>
+
+        <section id="products">
+            <h2>Affiliate Products</h2>
+            <p>Check out the products I personally endorse for a healthier and more spiritual lifestyle.</p>
+        </section>
+
+        <section id="podcasts">
+            <h2>Podcasts</h2>
+            <p>Listen to my latest podcasts on spirituality and other life discoveries.</p>
+        </section>
+
+        <section id="discoveries">
+            <h2>Discoveries</h2>
+            <p>Dive into new findings and insights that can help enhance your spiritual and physical well-being.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Chiza's Wellness & Spirituality Hub. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
